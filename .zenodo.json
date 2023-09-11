@@ -3,6 +3,7 @@
   "upload_type": "publication",
   "publication_type": "report",
   "publication_date": "2023-09-11",
+  "version": "v1.0.0",
   "keywords": [
     "R",
     "quarto",
@@ -10,8 +11,10 @@
   ],
   "creators": [
     {
-      "name": "Inbar Leaf",
-      "affiliation": ["ZHAW", "UZH", "SIB Swiss Institute of Bioinformatics"]
+      "family-name": "Leaf",
+      "given-names": "Inbar"
+      "affiliation": "SIB Swiss Institute of Bioinformatics",
+      "orcid": "https://orcid.org/0000-0000-0000-0000"
     } 
   ]
 }
