@@ -1,0 +1,13 @@
+---
+title: "[BC]^2^ T5 Quarto exercise"
+---
+
+In this project we aim to visualize the trends of the most frequently used babynames from 1880 to 2017 in the United States. We do this by:
+
+-   Understanding the different columns of the data set
+-   Find the top 10 most frequently used baby names in the data for:
+    -   girls
+    -   boys
+-   Plot the yearly trend of the top 10 baby names
+
+![Baby panda](https://live.staticflickr.com/4553/24046918747_2e60061d6f_b.jpg){#baby-panda width="400" fig-align="right"}
