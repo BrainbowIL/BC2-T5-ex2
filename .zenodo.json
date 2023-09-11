@@ -1,0 +1,17 @@
+{
+  "title": "Analysis of babynames",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "publication_date": "2023-09-11",
+  "keywords": [
+    "R",
+    "quarto",
+    "tutorial"
+  ],
+  "creators": [
+    {
+      "name": "Inbar Leaf",
+      "affiliation": ["ZHAW", "UZH", "SIB Swiss Institute of Bioinformatics"]
+    } 
+  ]
+}
